@@ -73,6 +73,3 @@ This project helps in understanding stock market trends using data analysis and 
 ---
 
 
-## ⭐ Support
-
-If you like this project, give it a ⭐ on GitHub!
