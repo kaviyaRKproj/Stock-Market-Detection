@@ -1,49 +1,95 @@
-📈 Stock Market Detection
+# 📈 Stock Market Detection
 
-This project is a Stock Market Detection and Prediction System that analyzes historical stock data and predicts future price trends using machine learning.
+This project is a **Stock Market Detection and Prediction System** that analyzes historical stock data and predicts future price trends using machine learning.
 
-🚀 Features
-📊 Stock data analysis
-📈 Trend detection
-🤖 Machine learning prediction
-📉 Visualization of results
-📂 Project Structure
-main.py – Main program to run the project
-data/ – Dataset files
-src/ – Source code (preprocessing, model, prediction)
-notebooks/ – Jupyter notebooks (if any)
-requirements.txt – Required libraries
-⚙️ Dependencies
+---
 
-Install required libraries using:
+## 🚀 Features
 
+- 📊 Stock data analysis  
+- 📈 Trend detection  
+- 🤖 Machine learning prediction  
+- 📉 Visualization of results  
+
+---
+
+## 📂 Project Structure
+
+```
+Stock-Market-Detection/
+│
+├── main.py              # Main program
+├── data/                # Dataset files
+├── src/                 # Source code
+├── notebooks/           # Jupyter notebooks (optional)
+├── requirements.txt     # Dependencies
+└── README.md            # Documentation
+```
+
+---
+
+## ⚙️ Dependencies
+
+Install required libraries:
+
+```bash
 pip install -r requirements.txt
+```
 
-Main libraries used:
+Main libraries:
+- pandas  
+- numpy  
+- matplotlib  
+- scikit-learn  
 
-pandas
-numpy
-matplotlib
-scikit-learn
-🧠 How It Works
-Load stock market dataset
-Clean and preprocess data
-Train machine learning model
-Predict stock prices
-Visualize predicted vs actual values
-▶️ Usage
+---
+
+## 🧠 How It Works
+
+1. Load stock dataset  
+2. Preprocess data  
+3. Train machine learning model  
+4. Predict stock prices  
+5. Visualize results  
+
+---
+
+## ▶️ Usage
 
 Run the project:
 
+```bash
 python main.py
+```
 
-Or open notebook:
+Or run in Jupyter Notebook:
 
+```bash
 jupyter notebook
-🛠️ Tech Stack
-Python
-Machine Learning
-Jupyter Notebook
-🎯 About
+```
 
-This project is developed to understand stock market behavior and apply machine learning techniques for prediction. It helps in analyzing trends and making better decisions based on data.
+---
+
+## 🛠️ Tech Stack
+
+- Python  
+- Machine Learning  
+- Jupyter Notebook  
+
+---
+
+## 🎯 About
+
+This project helps in understanding stock market trends using data analysis and machine learning techniques. It provides basic prediction functionality for educational purposes.
+
+---
+
+## 👩‍💻 Author
+
+**Kaviya R K**
+
+---
+
+## ⭐ Support
+
+If you like this project, give it a ⭐ on GitHub!
