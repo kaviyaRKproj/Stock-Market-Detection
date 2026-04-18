@@ -1,34 +1,22 @@
-# 📈 Stock Market Detection
+# Stock Market Detection
 
 This project is a **Stock Market Detection and Prediction System** that analyzes historical stock data and predicts future price trends using machine learning.
 
 ---
 
-## 🚀 Features
+## Features
 
-- 📊 Stock data analysis  
-- 📈 Trend detection  
-- 🤖 Machine learning prediction  
-- 📉 Visualization of results  
-
----
-
-## 📂 Project Structure
-
-```
-Stock-Market-Detection/
-│
-├── main.py              # Main program
-├── data/                # Dataset files
-├── src/                 # Source code
-├── notebooks/           # Jupyter notebooks (optional)
-├── requirements.txt     # Dependencies
-└── README.md            # Documentation
-```
+- Stock data analysis  
+- Trend detection  
+- Machine learning prediction  
+- Visualization of results  
 
 ---
 
-## ⚙️ Dependencies
+
+---
+
+## Dependencies
 
 Install required libraries:
 
@@ -44,7 +32,7 @@ Main libraries:
 
 ---
 
-## 🧠 How It Works
+## How It Works
 
 1. Load stock dataset  
 2. Preprocess data  
@@ -54,7 +42,7 @@ Main libraries:
 
 ---
 
-## ▶️ Usage
+## Usage
 
 Run the project:
 
@@ -70,7 +58,7 @@ jupyter notebook
 
 ---
 
-## 🛠️ Tech Stack
+## Tech Stack
 
 - Python  
 - Machine Learning  
@@ -78,17 +66,12 @@ jupyter notebook
 
 ---
 
-## 🎯 About
+## About
 
 This project helps in understanding stock market trends using data analysis and machine learning techniques. It provides basic prediction functionality for educational purposes.
 
 ---
 
-## 👩‍💻 Author
-
-**Kaviya R K**
-
----
 
 ## ⭐ Support
 
